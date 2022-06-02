@@ -6,7 +6,7 @@
 
 以 [markdownlint] 项目中的规则文档为蓝本，进行 **英->中** 翻译。
 
-[markdownlint]: https://github.com/DavidAnson/markdownlint
+[markdownlint]: https://raw.githubusercontent.com/DavidAnson/markdownlint/main/doc/Rules.md
 
 ## 阅读
 
@@ -15,8 +15,7 @@
 
 ## 须知
 
-原始英文文档依托于其所属的项目而存在，
-包含了一些影响阅读的东西。
+原始英文文档依托于其所属的项目而存在，包含了一些影响阅读的东西。
 
 故相对于原文，译文的结构有变动。
 
