@@ -10,7 +10,7 @@
 
 ## 阅读
 
-+ [英译中文档](docs/Rules-cn.md)
++ [英译中文档](docs/Rules-zh-CN.md)
 + [原始英文文档](docs/Rules.md)
 
 ## 须知
